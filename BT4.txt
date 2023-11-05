@@ -1,0 +1,23 @@
+<BTap html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>BT4</title>
+</head>
+<body>
+<font face=Arial>
+<font size=14>
+<font color=red>
+<h1> THIẾT KẾ VÀ TRIỂN KHAI WEBSITE </h1>
+<h2> Chương 3: Các ngôn ngữ và công cụ xây dựng website </h2>
+<p> Trong hai chương đầu, chúng ta đã giới thiệu về các bước chính để xây dựng website và đã học cách thức thực hiện hai bước đầu tiên là thiết kế nội dung website và thiết kế đồ họa website.
+<p> Trong chương này, chúng ta sẽ học một số ngôn ngữ lập trình và 
+
+
+<p>Feburary 2007 </p>
+<img style="height: 300px; width:400px;" src="78.png" alt="HÌNH ẢNH KHÔNG TỒN TẠI" > 
+<img src="https://i.pinimg.com/236x/76/cd/60/76cd602c4ba1b975e77a57db43feceb5.jpg" alt="HÌNH ẢNH KHÔNG TỒN TẠI" > 
+ 
+</font>
+</body>
+</html>

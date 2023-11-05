@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+        <body>
+            <label>Ho va ten</label>
+            <input type="text" name="u" id="hovaten"/>
+            <input type="button" value="Submit" onclick="showMesage()"/>
+            <p id = "thongbaoketqua">Kết quả</p>
+            <script>
+                function showMesage(){
+                    var hoten = document.getElementById("hovaten");
+                    var thongbao = document.getElementById("thongbaoketqua");
+                    if(hoten.value =="")
+                    thongbao.innerHTML="Chưa nhập dữ liệu";
+                else
+                thongbao.innerHTML=hoten.value;
+            return 1;
+                }
+            </script>
+        </body>
+    
+</html>

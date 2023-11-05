@@ -1,0 +1,20 @@
+<BTap html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>Hello Thuy An nekk</title>
+</head>
+<body>
+<h1><center> Paragraph Example </center></h1>
+<p> The Library seeks to provide an opportunity for artists, collectors, and organizations to exhibit their works to the community. Local artists are encouraged to apply for an exhibit at least 3 months before their proposed start date. All exhibitions will be free and open to the public. All exhibit applications go through the Library Advisory Board for approval. Please see the <font color=orange>Library Exhibit Policy</font>.
+
+<p> Please review the display spaces below and submit the Art Exhibit Application.
+
+<h1> Featured Current Exhibit </h1>
+<p>Feburary 2007 </p>
+<img style="height: 300px; width:400px;" src="78.png" alt="HÌNH ẢNH KHÔNG TỒN TẠI" > 
+<img src="https://i.pinimg.com/236x/76/cd/60/76cd602c4ba1b975e77a57db43feceb5.jpg" alt="HÌNH ẢNH KHÔNG TỒN TẠI" > 
+ 
+
+</body>
+</html>

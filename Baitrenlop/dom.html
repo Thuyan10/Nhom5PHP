@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <body>
+            <input type = "text" id="user_name" value="">
+            <p id = "thongbao"></p>
+            <script> 
+            var x = document.getElementById("user_name");
+            document.write("<br>")
+            document.write(x.value);
+            var y = x.value;
+            var z = document.getElementById("thongbao");
+            if(y=="") z.innerHTML="Chưa nhập dữ liệu"
+            else z.innerHTML=y; 
+        
+            </script>
+        </body>
+    </head>
+</html>

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>Serie học HTML cơ bản</title>
+</head>
+<body>
+
+
+Chào mừng bạn đến với Serie học HTML cơ bản của BlogIT.vn
+
+</body>
+</html>

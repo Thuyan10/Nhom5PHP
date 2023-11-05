@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Thực hành JavaScript</title>
+        <body>
+            <script language="JavaScript">
+                function hello(){
+                    document.write("hello world");
+                    return;
+                }
+                function tinhtong(x, y){
+                    var a = x + y;  
+                    return a;
+                }
+                hello();
+                document.write("<br>");
+                document.write("Tong của hai so la:");
+                document.write(tinhtong(2,5));
+                document.querySelector(".tong") 
+                document.write("<br>");
+                var x = 10;
+                if( x>= 18){
+                    
+
+                    document.write("Thanh niên <br>");
+                }
+                else{
+                    document.write("Thiếu niên <br>");
+                }
+                var k = 1;
+                for(k=1; k<=10; k++){
+                    if(k<5){
+                        document.write("k = "+k+" nhỏ hơn 5 <br>")
+                    }
+                    else{
+                        document.write("k = "+k+" lớn hơn 5 <br>")
+                    }
+                }
+            </script>
+            <div class="tong"></div>     
+        </body>
+    </head>
+</html>
